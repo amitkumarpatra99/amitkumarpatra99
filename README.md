@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR PATRA</h1>
 
-# 💫 About Me:
+# ⚡ About Me:
 <h3>A New MERN Devloper</h3>
 I'm Currently learning Mongo DB , Express, React , Node JS
 
