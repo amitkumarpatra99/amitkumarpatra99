@@ -4,9 +4,6 @@
 <h3>A New MERN Devloper</h3>
 I'm Currently learning Mongo DB , Express, React , Node JS
 
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pd7TebcBPc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_patraa_)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mr_patra_) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mr_patra_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_patra_) 
 
@@ -22,5 +19,3 @@ I'm Currently learning Mongo DB , Express, React , Node JS
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitkumarpatra99&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
