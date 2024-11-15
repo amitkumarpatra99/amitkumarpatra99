@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMIT KUMAR PATRA</h1>
+<h1 align="center">Hi 👋, I'm AMIT KUMAR PATRA ⚡</h1>
 
 # ⚡ About Me:
 <h3>A New MERN Devloper</h3>
