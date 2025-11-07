@@ -1,8 +1,8 @@
 # Hi 👋, I'm AMIT KUMAR PATRA
 
-### A passionate Javascript developer
+### WEB DEVLOPER
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarpatra99&label=Profile views&color=0e75b6&style=flat" alt="amitkumarpatra99" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarpatra99&label=Profile views&color=0e75b6&style=flat" alt="amitkumarpatra99" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mr_patra_" target="blank"><img src="https://img.shields.io/twitter/follow/mr_patra_?logo=twitter&style=for-the-badge" alt="mr_patra_" /></a> </p>
 
