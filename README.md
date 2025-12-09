@@ -1,46 +1,67 @@
-# Hi 👋, I'm AMIT KUMAR PATRA
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Amit+Kumar+Patra;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
 
-### WEB DEVLOPER
+  <p>
+    <a href="https://twitter.com/mr_patra_" target="blank"><img src="https://img.shields.io/twitter/follow/mr_patra_?logo=twitter&style=for-the-badge&color=blue" alt="mr_patra_" /></a>
+    <a href="https://linkedin.com/in/amitkumarpatra99" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+    <a href="https://mrpatra.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="portfolio" /></a>
+  </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarpatra99&label=Profile views&color=0e75b6&style=flat" alt="amitkumarpatra99" /> </p> -->
+  <img src="https://komarev.com/ghpvc/?username=amitkumarpatra99&label=Profile%20Views&color=0e75b6&style=flat-square" alt="amitkumarpatra99" />
 
-<p align="left"> <a href="https://twitter.com/mr_patra_" target="blank"><img src="https://img.shields.io/twitter/follow/mr_patra_?logo=twitter&style=for-the-badge" alt="mr_patra_" /></a> </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **A MERN Stack Project**
+- 🌱 I'm currently learning **TypeScript & GSAP**
+- 💼 View my credentials: **[Download Resume](https://drive.google.com/file/d/1xgU-OvduPOkcmW6dzjLCwNYCRdNBGHdU/view?usp=sharing)**
+- 💬 Ask me about **React, Node.js, Web Development**
+- 📫 Reach me at: **[amitkumarpatraaa@gmail.com](mailto:amitkumarpatraaa@gmail.com)**
 
-- 🌱 I'm currently learning **TypeScript,GSAP**
+---
 
-- 💬 Ask me about **React,Node.js,Web Development**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **amitkumarpatraaa@gmail.com**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[https://mrpatra.vercel.app/](https://mrpatra.vercel.app/)**
+| **Frontend** | **Backend & Database** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,sass,bootstrap,materialui,framer" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,oracle,java,c" /> |
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1xgU-OvduPOkcmW6dzjLCwNYCRdNBGHdU/view?usp=sharing](https://drive.google.com/file/d/1xgU-OvduPOkcmW6dzjLCwNYCRdNBGHdU/view?usp=sharing)**
+| **Data Science & ML** | **Tools & Cloud** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,anaconda,numpy,pandas,tensorflow,keras,opencv,matlab" /> | <img src="https://skillicons.dev/icons?i=git,aws,gcp,postman,sketch" /> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitkumarpatra99&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumarpatra99&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarpatra99&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+
+---
+
+### 🤝 Connect with me
+
+<div align="center">
 <a href="https://github.com/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-<a href="https://dev.to/mrpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrpatra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amit-kumar-patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amit-kumar-patra" height="30" width="40" /></a>
-<a href="https://kaggle.com/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-<a href="https://fb.com/mrpatraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrpatraa" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_patraa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_patraa_" height="30" width="40" /></a>
 <a href="https://twitter.com/mr_patra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_patra_" height="30" width="40" /></a>
-<a href="https://medium.com/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-<a href="https://hackerrank.com/@amitkumarpatraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amitkumarpatraaa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/amit-kumar-patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amit-kumar-patra" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_patraa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_patraa_" height="30" width="40" /></a>
+<a href="https://dev.to/mrpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrpatra" height="30" width="40" /></a>
 <a href="https://leetcode.com/mr_patraa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_patraa_" height="30" width="40" /></a>
-<a href="https://hackerearth.com/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amitkumarpatra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amitkumarpatra99" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sketch" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumarpatra99&show_icons=true&locale=en&layout=compact" alt="amitkumarpatra99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumarpatra99&show_icons=true&locale=en" alt="amitkumarpatra99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarpatra99&" alt="amitkumarpatra99" /></p>
+</div>
 
