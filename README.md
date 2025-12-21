@@ -27,7 +27,7 @@ I am a passionate **Full Stack Developer** crafting modern web applications.
 - 🔭 Currently working on **A MERN Stack Project**
 - 🌱 Learning **TypeScript & GSAP** for advanced UI/UX
 - 💼 Credentials: **[Download Resume](https://drive.google.com/file/d/1xgU-OvduPOkcmW6dzjLCwNYCRdNBGHdU/view?usp=sharing)**
-- 💬 Ask me about **React, Node.js, MongoDB, System Design**
+- 💬 Ask me about **React, Node.js, MongoDB,Express js**
 - 📫 Contact: **[amitkumarpatraaa@gmail.com](mailto:amitkumarpatraaa@gmail.com)**
 
 ---
