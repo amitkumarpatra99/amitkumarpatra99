@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** crafting modern web.
+I am a passionate **Full Stack Developer** crafting modern web application.
 
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Learning **TypeScript & GSAP**
