@@ -48,19 +48,12 @@ I am a passionate **Full Stack Developer** crafting modern web application.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amitkumarpatra99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amitkumarpatra99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amitkumarpatra99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amitkumarpatra99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarpatra99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amitkumarpatra99&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
-</div>
 
 ---
 
