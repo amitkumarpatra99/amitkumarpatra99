@@ -48,12 +48,10 @@ I am a passionate **Full Stack Developer** crafting modern web application.
 
 ---
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=amitkumarpatra99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=amitkumarpatra99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amitkumarpatra99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
